@@ -1,6 +1,6 @@
 # LIVRO DE RECEITAS
 
-## Ola ! Bem viendos ao livro de Receitas
+## Ola ! Bem vindos ao livro de Receitas
 
 
  - Strogonoff 
