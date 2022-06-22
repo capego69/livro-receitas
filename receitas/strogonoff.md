@@ -1,6 +1,6 @@
 # Strogonof de Frango
 
-### Ingredientes
+### Ingredientes.
 
  - 1 quilo de peito de frango sem pele
  - 1 tablete de caldo de galinha
@@ -12,7 +12,7 @@
  - Champignon
  - Batata palha e arroz branco para acompanhar
  
-### Modo de Preparo
+### Modo de Preparo.
 
  -1. Em uma panela a fogo medio, acrescente oo oleo e o caldo de galainha, e disolva o caldo.Logo em seguida coloque o frango picado em cubos na panela e deixe cozinhar, sempre dando uma olhadinha para não queimar.
  
@@ -20,5 +20,5 @@
  
  -3. Abaixe o fogo e coloque o creme de leite e mexa bem ate se tornar um creme homogeneo.
  
-#### -4. Esta pronto pra Servir!
+#### -4. Esta pronto pra Servir!.
  
